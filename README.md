@@ -1,6 +1,7 @@
 # Extracted-String-Processor-Microservice
 This is a microservice I wrote as part of a larger start-up project. The microservice 
-is an extracted string processor that organizes and stores data in PostgreSQL.
+is an extracted string processor that organizes and stores data in PostgreSQL. I originally
+was using MySQL but converted all the code for PostgreSQL.
 
 
 ## Main Systems and Functionality
